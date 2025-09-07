@@ -24,6 +24,7 @@ int main(){
     else{
         printf("\nImaginary Roots\n");
     }
-printf("\nMade by Shantanu");
+printf("Thank You for using the Quadratic Roots Calculator\nMade by Shantanu");
     return 0;
 }
+
